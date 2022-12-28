@@ -1,0 +1,4 @@
+pyodbc
+pandas
+yagmail
+pretty_html_table
